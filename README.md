@@ -1,7 +1,7 @@
 ### Welcome! 
 At first, my code:
-- My JavaScript, my React, my Node code example here https://github.com/beskider/tasks
-- Yes. I can TypeScript, look at backend part (e.g. TypeScript and Nest framework) https://github.com/beskider/service-manager 
+- My JavaScript, my React, my Node.js code example here https://github.com/beskider/tasks
+- Yes. I can TypeScript, look at backend part (e.g. TypeScript and NestJS framework) https://github.com/beskider/service-manager 
 - My formerly Java code https://github.com/beskider/pracownicy-rest or https://github.com/beskider/lista-startowa
 
 ### ...
